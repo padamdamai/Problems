@@ -1,4 +1,7 @@
 
+
+// Problem: Image is not working in react ?
+
 export default function Head(){
     return <div>
                 <header>
