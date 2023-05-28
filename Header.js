@@ -6,7 +6,7 @@ export default function Head(){
     return <div>
                 <header>
                    <nav className="nav">
-                   <img src="logoReact.png" className="img-logo"/><br/>
+                   <img src="./logoReact.png" className="img-logo"/><br/>
                     <ul className="ul">
                     <li>Home</li>
                     <li>About</li>
